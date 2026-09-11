@@ -1,18 +1,18 @@
-# Snowcone Program
+# 🍧 Snowcone Program
 
-A Python program for tracking snowcone sales by flavor and generating an end-of-day sales report.
+A Python program for tracking snowcone sales by flavor and generating an end-of-day sales report. 📊
 
-## Built With
+## 🛠️ Built With
 
-- Python
+- 🐍 Python
 
-## Concepts Practiced
+## 🧠 Concepts Practiced
 
-- Lists
-- Loops
-- User input
-- Conditional statements
-- Counters
-- Arithmetic
-- Menu-based input
-- Formatted output
+- 📋 Lists
+- 🔄 Loops
+- ⌨️ User input
+- 🔀 Conditional statements
+- 🔢 Counters
+- ➕ Arithmetic
+- 🧾 Menu-based input
+- ✨ Formatted output
